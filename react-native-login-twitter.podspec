@@ -3,7 +3,7 @@ require 'json'
 package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 
 Pod::Spec.new do |s|
-  s.name        = 'react-native-login-twitter'
+  s.name        = 'react-native-twitter-auth'
   s.version     = package['version']
   s.summary     = package['description']
   s.homepage    = package['homepage']
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.source_files  = "ios/*.{h,m}"
 
   s.dependency "React"
-  s.dependency "TwitterKit", "~> 5.1.0"
+  s.dependency "TwitterKit", "~> 5.0.3"
 end

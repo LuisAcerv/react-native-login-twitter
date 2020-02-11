@@ -78,7 +78,7 @@ or
 // Podfile
 target 'MyApp' do
   # use_frameworks!
-  pod 'TwitterKit', '~> 5.1.0'
+  pod 'TwitterKit', '~> 5.0.3'
 end
 ```
 
