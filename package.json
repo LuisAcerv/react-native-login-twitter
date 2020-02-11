@@ -1,15 +1,11 @@
 {
-  "name": "react-native-login-twitter",
+  "name": "react-native-twitter-auth",
   "description": "Social Signin with Twitter",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "license": "MIT",
   "main": "index.js",
   "types": "index.d.ts",
-  "author": {
-    "name": "justjavac",
-    "email": "justjavac@gmail.com",
-    "url": "https://github.com/justjavac"
-  },
+  "author": "justjavac <justjavac@gmail.com> (https://github.com/justjavac)",
   "contributors": [
     "justjavac (https://github.com/justjavac)",
     "Nguyen The Thang (https://github.com/thethanghn)"
@@ -27,7 +23,7 @@
   "homepage": "https://github.com/clockin/react-native-login-twitter.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clockin/react-native-twitter-signin"
+    "url": "git+https://github.com/clockin/react-native-twitter-signin.git"
   },
   "bugs": {
     "url": "https://github.com/clockin/react-native-twitter-signin/issues"
@@ -37,5 +33,8 @@
     "prop-types": "^15.5.10",
     "react": ">=15.4.0 || ^16.0.0-alpha",
     "react-native": ">=0.40"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
