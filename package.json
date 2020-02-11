@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "index.js",
   "types": "index.d.ts",
-  "author": "justjavac <justjavac@gmail.com> (https://github.com/justjavac)",
+  "author": "luis_acerv (https://github.com/LuisAcerv)",
   "contributors": [
     "justjavac (https://github.com/justjavac)",
     "Nguyen The Thang (https://github.com/thethanghn)"
@@ -20,13 +20,13 @@
     "social signin",
     "authentication"
   ],
-  "homepage": "https://github.com/clockin/react-native-login-twitter.git",
+  "homepage": "hhttps://github.com/LuisAcerv/react-native-twitter-auth",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clockin/react-native-twitter-signin.git"
+    "url": "git+https://github.com/LuisAcerv/react-native-twitter-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/clockin/react-native-twitter-signin/issues"
+    "url": "https://github.com/LuisAcerv/react-native-twitter-auth/issues"
   },
   "dependencies": {},
   "peerDependencies": {
