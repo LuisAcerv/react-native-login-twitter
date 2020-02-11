@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/react-native-login-twitter.svg)](https://badge.fury.io/js/react-native-login-twitter)
+[![npm version](https://badge.fury.io/js/react-native-twitter-auth.svg)](https://badge.fury.io/js/react-native-twitter-auth)
 
 Note: this guide is for TwitterKit5 and ReactNative 0.6+.
 Note: This package has been forked from https://github.com/clockin/react-native-login-twitter and updated to work with ios 13 and TwitterKit5
