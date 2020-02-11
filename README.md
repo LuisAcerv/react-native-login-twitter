@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/react-native-login-twitter.svg)](https://badge.fury.io/js/react-native-login-twitter)
 
-Note: this guide is for TwitterKit 3.3 and ReactNative 0.56+.
+Note: this guide is for TwitterKit5 and ReactNative 0.6+.
 
 # React Native : Twitter Signin
 
@@ -78,7 +78,7 @@ or
 // Podfile
 target 'MyApp' do
   # use_frameworks!
-  pod 'TwitterKit', '~> 5.0.3'
+  pod 'TwitterKit5'
 end
 ```
 
